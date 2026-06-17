@@ -2,6 +2,71 @@
 
 Founded by [th3fishmk](https://github.com/th3fishMk), [alebahia](https://github.com/alebahia) and [izquierdo] (who happens to not have a github account at the moment).  
 
+> Revision: 0.0.1
+
+## Our overall structure
+
+Regardless of the project we're working on, every game will be split into 3 big parts:
+
+### Visual Assets (artist)
+
+This includes **everything** that the player will see on screen, 3d or 2d in-game models, such as (if applies)
+
+- Characters
+- Vehicles
+- Environmental assets (trees, water, animals atc)
+- Game store assets
+- Icons
+- UI elements
+
+This section rest on the shoulders of [alebahia](https://github.com/alebahia).
+
+### Audio Assets (artist)
+
+Audio is such an important part of any game, this section includes
+
+- Any in game sound
+  - Steps
+  - Engines
+  - Crash sounds
+  - Activation/deactivation sound effects
+  - Ambient music
+- Voice acting
+- UI sounds (buttons and menu interactions)
+
+### Programming (engineering)
+
+Any part that requires code, scripting, any programming language or similar such as, but not limit to:
+
+- Game mechanics
+  - Driving
+  - Flying
+  - Character movement
+  - logic
+  - Systems
+    - Inventory
+    - Combat
+    - Health / Damage
+- Interactions
+- Behaviour
+- UI/UX programming
+- Networking
+- Websites
+
+This part scumble on the back of [fish](https://github.com/th3fishMk)
+
+## Design
+
+We agree than the design and the game design document will be in charge, primarily, of the person on whose idea we're working on.
+
+### Lore
+
+If the game requires a lore, whoever had the idea of the game, also have the responsibility of writing a plot
+
+### level design
+
+To be decided...
+
 ## Our AI policy
 
 Whether we like it or not, AI is everywhere nowadays specially with companies like Microsoft and Microsoft and, did I mentioned Microsoft already? pushing AI down our troats. Disgusting! Truth is, many of us are here for the love of the game, we don't care about getting 10x productivity nor about being left behind because some random dude in the internet is using x or y prompt to get the best slop possible.
