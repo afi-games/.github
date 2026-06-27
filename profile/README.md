@@ -1,6 +1,6 @@
 # Hi there, this is AFI Games
 
-Founded by [th3fishmk](https://github.com/th3fishMk), [alebahia](https://github.com/alebahia) and [izquierdo] (who happens to not have a github account at the moment).  
+Founded by [alebahia](https://github.com/alebahia), [rjizquierdoh](https://github.com/rjizquierdoh) and [th3fishmk](https://github.com/th3fishMk)
 
 > Revision: 0.0.1
 
