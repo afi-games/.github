@@ -34,6 +34,8 @@ Audio is such an important part of any game, this section includes
 - Voice acting
 - UI sounds (buttons and menu interactions)
 
+This assets will be crafted by [izquierdo](https://github.com/rjizquierdoh)
+
 ### Programming (engineering)
 
 Any part that requires code, scripting, any programming language or similar such as, but not limit to:
